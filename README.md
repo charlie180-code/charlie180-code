@@ -1,8 +1,8 @@
 # Bader Salissou Saâdou - Full Stack Web Developer
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourgithubusername)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://yourportfolio.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bader-saadou-salissou-b269781a2/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/expo180)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://escape.com/)
 
 ## Welcome to My GitHub Profile! 👋
 
