@@ -12,7 +12,7 @@ Hi there! I'm Bader , a passionate and dedicated full-stack web developer with e
 
 Here is one of my notable projects:
 
-### voilier, Inc
+###bytesprint labs
 
 ![Flask Badge](https://img.shields.io/badge/Flask-v1.1.4-blue?style=flat&logo=flask)
 ![ORM Badge](https://img.shields.io/badge/ORM-SQLAlchemy-red?style=flat)
@@ -20,7 +20,7 @@ Here is one of my notable projects:
 ![CSS Badge](https://img.shields.io/badge/CSS3-Style-blue?style=flat&logo=css3)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Logic-yellow?style=flat&logo=javascript)
 
-voilier is an ambitious web application, aiming to revolutionize online learning by providing free, high-quality educational resources for individuals interested in complex tech topics such as robotics, cryptocurrency, AI, machine learning, and cybersecurity.
+bytesprint is an ambitious web application, aiming to revolutionize online learning by providing free, high-quality educational resources for individuals interested in complex tech topics such as robotics, cryptocurrency, AI, machine learning, and cybersecurity.
 
 ### Key Features:
 
@@ -34,7 +34,7 @@ voilier is an ambitious web application, aiming to revolutionize online learning
 - **Frontend**: JavaScript, HTML, and CSS to create a user-friendly and interactive interface.
 - **Database**: Utilizing a secure and efficient database system to store user data and progress.
 
-voilier  aims to bridge the gap between education and employability, empowering learners to acquire in-demand skills and increase their chances of securing a job in the tech sector.
+bytesprint  aims to bridge the gap between education and employability, empowering learners to acquire in-demand skills and increase their chances of securing a job in the tech sector.
 
 We're continually evolving and improving the platform, so stay tuned for regular updates and exciting new features!
 
@@ -67,6 +67,6 @@ Repository: [Link to GitHub Repository](https://github.com/FrGen-Webapp-/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://escape.com/)
 [![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:badersaadousalissou@gmail.com)
 
-Feel free to reach out if you want to collaborate on projects, discuss ideas, or just chat about web development. Happy coding! 😄
+Feel free to reach out if you want to collaborate on projects, discuss ideas, or just chat about software development. Happy coding! 😄
 
 
