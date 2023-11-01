@@ -1,4 +1,4 @@
-# Bader Salissou Saâdou - Full Stack Web Developer
+# Bader Salissou Saâdou - Full Stack Developer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bader-saadou-salissou-b269781a2/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/expo180)
@@ -42,7 +42,6 @@ Join us on this journey of knowledge and growth. Let's shape the future together
 
 ---
 
-Repository: [Link to GitHub Repository](https://github.com/FrGen-Webapp-/)
 
 ## 🌱 Current Learning Goals
 
