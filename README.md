@@ -1,6 +1,6 @@
 # Hi there, I'm Bader 👋
 
-🔭 I'm a DevOps Engineer with a strong interest in embedded systems, computational theory, cryptography, and IoT.
+🔭 I'm a DevOps Engineer with a strong interest in embedded systems, computational theory, cryptography, finance and IoT.
 
 ✍️ I'm passionate about optimizing software development processes and exploring the intersection of software, hardware.
 
