@@ -48,13 +48,13 @@
 
 ### 📬 Connect with me  
 <p style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/bader-saadou-salissou-b269781a2/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/Baderdv4/photo">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:awesomebss39@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50"/>
   </a>
 </p>  
