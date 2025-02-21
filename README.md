@@ -17,8 +17,10 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="50"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=kalilinux" alt="kali" width="50"/>
-  <img src="https://skillicons.dev/icons?i=linuxmint" alt="mint" width="50"/>
+  <img src="https://skillicons.dev/icons?i=kali" alt="kali" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50"/>
+  <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mint" alt="mint" width="50"/>
   <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50"/>
   <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="50"/>
