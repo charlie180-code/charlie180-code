@@ -1,15 +1,38 @@
-# Hi there, I'm Bader 👋
+# 👋 Hey, I'm Bader Salissou Saâdou! 
 
-🔭 I'm a DevOps Engineer with a strong interest in embedded systems, computational theory, cryptography, finance and IoT.
+![Profile Views](https://komarev.com/ghpvc/?username=BaderSalissou&style=flat-square)  
+![GitHub followers](https://img.shields.io/github/followers/BaderSalissou?style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/BaderSalissou?style=flat-square)  
 
-✍️ I'm passionate about optimizing software development processes and exploring the intersection of software, hardware.
+## About Me  
+**Building: CloudSquish & Sailsmakr**  
+**Mission:** Build cool tech, break things, fix them better
 
-🎩 I've found a groundbreaking way to predict complex mental health issues using advanced computational algorithms and innovative hardware implementations.
+## ⚙Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
-💬 Ask me about DevOps practices, embedded systems programming, computational theory, cryptography, IoT, or how technology can be applied to mental health research!
+## ☁ Currently Learning  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white">
+</p>
 
-📫 You can reach me on [Twitter](https://twitter.com/bader_dv4) or [LinkedIn](https://www.linkedin.com/in/bader-saadou-salissou-b269781a2/).
+## ⚡ Fun Facts  
+💻 I talk to servers more than people  
+🎯 I believe in "Break it, then make it better"  
+🥤 I run on caffeine and crazy ideas  
 
-⚡ Fun fact: In addition to my technical pursuits, I'm deeply involved in mental health research and advocacy, and I'm passionate about leveraging technology to make a positive impact in this field!
+---
 
-💡 Another fun fact: I'm fascinated by cryptography and its applications in securing IoT devices and networks. Ask me about my latest explorations in this exciting field!
+### 📬 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+
+🔥 Let's build something awesome!
