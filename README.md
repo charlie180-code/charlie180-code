@@ -40,7 +40,6 @@
 </p>  
 
 ## ⚡ Fun Facts  
-💻 I talk to servers more than people  
 🎯 I believe in "Break it, then make it better"  
 🥤 I run on caffeine and crazy ideas  
 
