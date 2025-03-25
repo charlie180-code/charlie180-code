@@ -5,12 +5,7 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
-  <img src="https://skillicons.dev/icons?i=electron" alt="Electron.js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
 </p>  
 
