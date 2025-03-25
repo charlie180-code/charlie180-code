@@ -4,9 +4,9 @@
 <p style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastApi" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastApi" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
 </p>  
 
