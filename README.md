@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50"/>
 </p>  
 
 ## ⚡ Fun Facts  
