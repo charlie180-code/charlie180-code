@@ -13,9 +13,8 @@
 ## Currently Learning  
 <p style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="50"/>
-  <img src="https://skillicons.dev/icons?i=cuda" alt="c++" width="50"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50"/>
   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50"/>
