@@ -5,7 +5,6 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50"/>
-  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastApi" width="50"/>
