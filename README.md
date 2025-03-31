@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bader Salissou Saâdou!  
+# 👋 Hey, I'm Bader!  
 
 ## Tech Stack  
 <p style="display: flex; gap: 10px;">
