@@ -15,7 +15,7 @@
 
 ## Currently Learning  
 <p style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=Rust" alt="Rust" width="50"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="50"/>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50"/>
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
