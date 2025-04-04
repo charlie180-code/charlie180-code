@@ -13,8 +13,8 @@ Democratizing access to financial tools and information, so that anyone, everywh
 
 ## Learning  
 <p style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="50"/>
   <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="50"/>
 </p>  
