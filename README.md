@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Bader!
-My current mission is to democratize access to financial tools and information, so that anyone everywhere gain the resources they need to thrive. I'm deeply committed to learning, improving, and constantly pushing the boundaries of what's possible.
+Democratizing access to financial tools and information, so that anyone everywhere gain the resources they need to thrive.
 
-## Tech Stack  
+## Skills  
 <p style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
@@ -10,7 +10,7 @@ My current mission is to democratize access to financial tools and information, 
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
 </p>  
 
-## Currently Learning  
+## Learning  
 <p style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50"/>
@@ -18,7 +18,7 @@ My current mission is to democratize access to financial tools and information, 
   <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="50"/>
 </p>  
 
-### 📬 Connect with me  
+### Let's Connect 
 <p style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/bader-saadou-salissou-b269781a2/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
@@ -31,4 +31,4 @@ My current mission is to democratize access to financial tools and information, 
   </a>
 </p>  
 
-🔥 Let's build something awesome!  
+Let's build something awesome!  
