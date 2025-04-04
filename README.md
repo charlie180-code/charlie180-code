@@ -1,26 +1,20 @@
-# 👋 Hey, I'm Bader!  
+# 👋 Hey, I'm Bader!
+My current mission is to democratize access to financial tools and information, so that anyone everywhere gain the resources they need to thrive. I'm deeply committed to learning, improving, and constantly pushing the boundaries of what's possible.
 
 ## Tech Stack  
 <p style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastApi" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50"/>
-  <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
 </p>  
 
 ## Currently Learning  
 <p style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="50"/>
-  
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/>
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50"/>
