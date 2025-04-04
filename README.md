@@ -4,6 +4,7 @@ Democratizing access to financial tools and information, so that anyone, everywh
 ## Skills  
 <p style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JS" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
