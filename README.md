@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Bader!
-Democratizing access to financial tools and information, so that anyone everywhere gain the resources they need to thrive.
+Democratizing access to financial tools and information, so that anyone, everywhere will gain the resources he needs to thrive.
 
 ## Skills  
 <p style="display: flex; gap: 10px;">
