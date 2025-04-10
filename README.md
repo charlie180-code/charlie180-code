@@ -8,7 +8,6 @@
 <h2>Core Skills</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
