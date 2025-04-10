@@ -5,7 +5,7 @@
 <hr>
 
 <!-- 🚀 SKILLS -->
-<h2>🚀 Core Skills</h2>
+<h2>Core Skills</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50"/>
@@ -19,10 +19,13 @@
 <hr>
 
 <!-- 📚 LEARNING -->
-<h2>📚 Currently Learning</h2>
+<h2>Currently Learning</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="50"/>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50"/>
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50"/>
 </div>
 
 <hr>
