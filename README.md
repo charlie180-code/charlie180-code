@@ -22,11 +22,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50"/>
   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50"/>
-  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="50"/>
 </div>
 
 <hr>
