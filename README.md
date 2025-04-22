@@ -7,11 +7,16 @@
 <!-- 🚀 SKILLS -->
 <h2>Core Skills</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50"/>
+  <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
 </div>
 
